@@ -1,0 +1,5 @@
+sprite_sheet = "assets/pokemon_sprite.png"
+sprites_path = "target"
+output = "odded"
+
+clusters = [2, 3, 4, 5]
